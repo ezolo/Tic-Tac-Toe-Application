@@ -1,2 +1,2 @@
 # Tic-Tac-Toe-Application
-The following application is a Tic-Tac-Toe game.
+The following application is a Tic-Tac-Toe game. This game is best played by two users (one X, one O). This application follows the standard rules of Tic-Tac-Toe. Whenever a user creates a line of three x's and/or o's (diagonally, horizontally, and/or vertically), they win! However, if no user creates that pattern of three x's and/or o's in a row, no person wins and the program displays a tie. 
