@@ -11,11 +11,17 @@
 ### 1️⃣ Outcome #1: User Wins ###
 > Like in any Tic-Tac-Toe game, the user will place an "x" or an "o" wherever they choose. If the placement of their x's or o's makes a horizontal line, vertical line, or a diagonal line: they win! Here are a couple of examples of a win this application:
 > Vertical Win
+>
 > ![](https://i.imgur.com/yKtTyMU.png)
+>
 > Diagonal Win
+>
 > ![](https://i.imgur.com/DNGBdgC.png)
+>
 > Horizontal Win
+>
 > ![](https://i.imgur.com/m96fFbt.png)
+>
 
 
 ### 2️⃣ Outcome #2: User Ties ###
