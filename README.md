@@ -27,7 +27,9 @@
 
 ### 2️⃣ Outcome #2: User Ties ###
 > Although usually one of the players wins and one of the players loses in Tic-Tac-Toe, ties are a possibility. Here is an example of tie that occurred in a game (no win):
+>
 > ![](https://i.imgur.com/8xXM4mq.png)
+>
 
 
 ## 😃 Thank you for viewing my application ##
