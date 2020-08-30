@@ -13,15 +13,15 @@
 >
 > Vertical Win
 >
-> ![](https://i.imgur.com/yKtTyMU.png)
+> ![](https://i.imgur.com/h8myHXm.png)
 >
 > Diagonal Win
 >
-> ![](https://i.imgur.com/DNGBdgC.png)
+> ![](https://i.imgur.com/KDf34v1.png)
 >
 > Horizontal Win
 >
-> ![](https://i.imgur.com/m96fFbt.png)
+> ![](https://i.imgur.com/Qc1NQTo.png)
 >
 
 
